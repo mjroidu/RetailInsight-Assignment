@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RetailInsight-Assignment/static/css/main.f5a6289b.chunk.css",
+    "main.js": "/RetailInsight-Assignment/static/js/main.cdffc0c9.chunk.js",
+    "main.js.map": "/RetailInsight-Assignment/static/js/main.cdffc0c9.chunk.js.map",
+    "runtime-main.js": "/RetailInsight-Assignment/static/js/runtime-main.b8c21250.js",
+    "runtime-main.js.map": "/RetailInsight-Assignment/static/js/runtime-main.b8c21250.js.map",
+    "static/js/2.9a729d9a.chunk.js": "/RetailInsight-Assignment/static/js/2.9a729d9a.chunk.js",
+    "static/js/2.9a729d9a.chunk.js.map": "/RetailInsight-Assignment/static/js/2.9a729d9a.chunk.js.map",
+    "static/js/3.12dd0046.chunk.js": "/RetailInsight-Assignment/static/js/3.12dd0046.chunk.js",
+    "static/js/3.12dd0046.chunk.js.map": "/RetailInsight-Assignment/static/js/3.12dd0046.chunk.js.map",
+    "index.html": "/RetailInsight-Assignment/index.html",
+    "static/css/main.f5a6289b.chunk.css.map": "/RetailInsight-Assignment/static/css/main.f5a6289b.chunk.css.map",
+    "static/js/2.9a729d9a.chunk.js.LICENSE.txt": "/RetailInsight-Assignment/static/js/2.9a729d9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c21250.js",
+    "static/js/2.9a729d9a.chunk.js",
+    "static/css/main.f5a6289b.chunk.css",
+    "static/js/main.cdffc0c9.chunk.js"
+  ]
+}
